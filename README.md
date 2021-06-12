@@ -10,5 +10,3 @@ I currently work on backend development for web applications and PaaS platform t
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): nvp#9137 </a>
 
-<img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
-/>
